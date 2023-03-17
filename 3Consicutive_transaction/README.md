@@ -14,7 +14,7 @@
         8     2023-01-08     480   
         9     2023-01-09     60    
         10    2023-01-10     1400  
-        ![input table image](/input.png)
+        ![input table image](https://raw.githubusercontent.com/hiccup-09/SQL_Practice-problems-solutions/main/3Consicutive_transaction/input.png)
 
 
         Output-
@@ -24,5 +24,5 @@
         6   2023-01-07  1570  
         7   2023-01-08  2130  
 
-        ![output table image](output.png)
+        ![output table image](https://raw.githubusercontent.com/hiccup-09/SQL_Practice-problems-solutions/main/3Consicutive_transaction/output.png)
 
