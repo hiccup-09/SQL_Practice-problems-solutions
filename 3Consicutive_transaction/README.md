@@ -15,6 +15,9 @@
         9     2023-01-09     60    
         10    2023-01-10     1400  
         ![input table image](https://raw.githubusercontent.com/hiccup-09/SQL_Practice-problems-solutions/main/3Consicutive_transaction/input.png)
+        
+        <img src="https://raw.githubusercontent.com/hiccup-09/SQL_Practice-problems-solutions/main/3Consicutive_transaction/input.png">
+        <img src="/input.png">
 
 
         Output-
