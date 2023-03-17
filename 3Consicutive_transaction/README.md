@@ -1,6 +1,6 @@
 <h3># 3 or more onsecutive records finding using Tabibitosan method.</h3>
 
-# problem
+# problem:
         A bank wants to check if the customer withdrew more than $1000 consecutively for 3 or more days..
         Input-
         day  date amount  
@@ -14,11 +14,9 @@
         8     2023-01-08     480   
         9     2023-01-09     60    
         10    2023-01-10     1400  
-![input table image](/input.png)
         
-        <img src="https://raw.githubusercontent.com/hiccup-09/SQL_Practice-problems-solutions/main/3Consicutive_transaction/input.png">
-        <img src="3Consicutive_transaction/input.png">
-
+![input table image](https://raw.githubusercontent.com/hiccup-09/SQL_Practice-problems-solutions/main/3Consicutive_transaction/input.png)
+        
 
         Output-
         day date    amount
@@ -27,6 +25,5 @@
         6   2023-01-07  1570  
         7   2023-01-08  2130  
 
-        ![output table image](https://raw.githubusercontent.com/hiccup-09/SQL_Practice-problems-solutions/main/3Consicutive_transaction/output.png)
 
-![input table image](3Consicutive_transaction/input.png)
+![output table image](https://raw.githubusercontent.com/hiccup-09/SQL_Practice-problems-solutions/main/3Consicutive_transaction/output.png)
